@@ -115,7 +115,12 @@ This interactive web application leverages the power of **Streamlit** to explore
 
 
 ---
+## 🌟Project Snapshots
+![Screenshot 2025-06-02 011546](https://github.com/user-attachments/assets/f6986869-e70a-4b06-b1dd-995c09bae96c)
+![Screenshot 2025-06-02 011703](https://github.com/user-attachments/assets/c998348b-c78a-4952-9efb-498c20735f78)
 
+
+---
 
 ## 🛠️ Technologies Used
 
