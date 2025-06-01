@@ -15,7 +15,6 @@ LIVE DEPLOYMENT : https://olympic-analysis-webapp-model.streamlit.app/
 - [🎯 Overview](#-overview)
 - [✨ Features](#-features)
 - [🚀 Installation](#-installation)
-- [🎮 Usage](#-usage)
 - [🛠️ Technologies Used](#️-technologies-used)
 
 ---
